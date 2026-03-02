@@ -1,0 +1,13 @@
+{
+  "name": "NoteCompass AI aaj - login",
+  "short_name": "NoteCompass",
+  "description": "Professional AI-powered capture for your thoughts, voice, and documents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0f172a"
+}
